@@ -1,0 +1,25 @@
+1.Aclovate Cream
+2.Synalar 
+3.Vanos Cream
+4.Aristocort Cream
+5.Aristocort Ointment
+6.DesOwen Cream
+7.DesOwen Ointment
+8.Cordran-SP Cream
+9.Cutivate Ointment 
+10.Locoid  cream
+11.Locoid ointment
+12.Cutivate Cream 
+13.Cordran Ointment
+14.Pandel Cream
+15.Elocon Cream
+16.Elocon Ointment
+17.Dermatope Cream
+18.Dermatope Ointment
+19.Topicort Ointment
+20.Psorcone Cream 
+21.Psorcone Ointment
+22.Diprosone Cream
+23.Psorcon Ointment
+24.Psorcon Cream
+25.Elidel Cream

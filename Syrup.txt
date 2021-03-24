@@ -1,0 +1,25 @@
+1.benzonatate
+2.Cheratussin AC
+3.Benadryl
+4.Tussionex Pennkinetic
+5.Mucinex
+6.Promethazine DM
+7.Tessalon Perles
+8.Robitussin
+9.Hycodan
+10.Guaifenesin
+11.codeine 
+12.Mucinex
+13.dextromethorphan
+14.Delsym
+15.Tessalon
+16.Dilaudid
+17.Hydromet
+18.homatropine 
+19.dextromethorphan
+20.diphenhydramine
+21.hydrocodone
+22.Guaiatussin
+23.Acetaminophen
+24.Honitus
+25.TusQDX
